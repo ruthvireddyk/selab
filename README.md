@@ -15,3 +15,5 @@ wordpress - sql - https://docs.google.com/document/d/1faLIG8Wilfe1lIHygbECNrMY1J
 
 
 MAVEN : https://github.com/pkavya05/javaproject.git
+
+AWS :https://docs.google.com/document/d/17AhhsZ5-SvcPiYNXn4sj0b0-HJbUuyq3/edit

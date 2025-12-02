@@ -11,3 +11,7 @@ DOCKER REDIS COMMANDS -https://docs.google.com/document/d/1LeSRGZYFrm3dGcPG6LLBw
 
 docker compose files - https://docs.google.com/document/d/1EWejnqjZdL2aqC-Dch15DD-EEDlQdI1w/edit
 wordpress - sql - https://docs.google.com/document/d/1faLIG8Wilfe1lIHygbECNrMY1JRElGvv/edit
+
+
+
+MAVEN : https://github.com/pkavya05/javaproject.git
